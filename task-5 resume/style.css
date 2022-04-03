@@ -1,0 +1,101 @@
+#div1{
+    background-color: grey;
+    padding: 200px;
+    margin: 40px;
+} 
+#div2{
+    background-color: grey ;
+    padding: 20px;
+    margin: 40px;
+} 
+#img1{
+    width: 200px;
+    height:200px;
+    border-radius: 100px;
+    border:8px dotted rgb(255, 174, 0);
+}
+#div3{
+    position: relative;
+    top:-340px;
+    right: -550px;
+    
+}
+#div4{
+    background-color: rgb(243, 163, 13);
+    width: 300px;
+    height: 70px;
+    border-radius: 10px;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    position: relative;
+    top:-380px;
+    right: -510px;
+}
+h1
+{
+    position: relative;
+    bottom: -15px;
+}
+p{
+    font-size: x-large;
+}
+#div5{
+    position: relative;
+    top:-360px;
+    right:-235px;
+}
+#hr1{
+    position: relative;
+    top: -370px;
+    width: 1250px;
+}
+#img2{
+    width: 50px;
+    height:50px;
+    border-radius: 100px;
+    border:6px dotted rgb(255, 174, 0);
+}
+  #dav1{
+      position: relative;
+      top:-360px;
+      right: -50px;
+      width: 450px;
+  }
+span{
+    position: relative;
+    top:-23px;
+    right: -10px;
+    font-style: bold;
+    font-size: x-large;
+}
+#img3{
+    width: 50px;
+    height:50px;
+    border-radius: 100px;
+    border:6px dotted rgb(255, 174, 0);}
+  #hr3{
+      position: relative;
+      top:-30px;
+      right:-120px;
+  }  
+ 
+input{
+    width:250px;
+}
+li{
+    font-size: larger;
+}
+#hr2{
+    position: relative;
+    top: -1450px;
+    transform: rotate(90deg);
+    width: 1200px;
+    right: -5px;
+}
+#dav4{
+    position: relative;
+    right:-750px;
+    top:-1160px;}
+#li2{
+    font-size: large;
+    }
