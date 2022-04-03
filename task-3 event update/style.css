@@ -1,0 +1,43 @@
+body{
+ background-color: rgb(222, 228, 228);
+
+}
+fieldset{
+    padding: 30px;
+    height: 50%;
+    
+    
+}
+#parent{
+    position: relative;
+    top:-388px;
+    right:-600px;
+}#parent2{
+    position: relative;
+    top:-778px;
+    right:-800px;
+    
+}
+#btn{
+    position: relative;
+    top:-730px;
+    right:-700px;
+}
+#spa2{
+    position: relative;
+    right: -30px;
+}
+
+button{
+    width: 130px;
+    height:40px;
+    border-radius: 5px;
+}
+#int{
+    border-radius: 5px;
+    width:300px;
+    height: 20px;
+}
+img{
+    border-radius: 10px;
+}
