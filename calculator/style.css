@@ -1,0 +1,74 @@
+body{
+    background-color:rgb(255, 255, 255);
+    
+}
+h1{
+    font-size: x-large;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: rgb(63, 63, 63);
+    color:white;
+    text-align: center;
+    border-radius: 50px;
+    width: 40%;
+   
+    
+    
+    
+    
+}
+input{
+    width:450px;
+    height:75px;
+    margin: 9.5px;
+}
+#parent1{
+    display: grid;
+    display:flex;
+   
+}
+#parent2{
+    display: grid;
+    display:flex;
+}
+#parent3{
+    display: grid;
+   display:flex;
+}
+#parent4{
+    display: grid;
+    display:flex;
+}
+#family{
+    justify-content: center;
+}
+fieldset{
+    background-color: rgb(53, 53, 53);
+    width: 450px;
+   
+    border-radius: 10px;
+    
+}
+.child{
+    font-size: x-large;
+}
+    
+
+    
+
+#btn{
+    border-radius: 10px;
+    width: 100px;
+    height:100px;
+    margin:10px;
+   
+    
+    
+}
+#btn1{
+    background-color: rgb(187, 186, 186);
+    border-radius: 10px;
+    width: 100px;
+    height:100px;
+    margin:10px;
+}
+
